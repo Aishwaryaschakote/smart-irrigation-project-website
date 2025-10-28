@@ -1,2 +1,2 @@
-# smart-irrigation-project-website
-it is an Iot project, this website is built for formars to monitor the details of irrigation in their farms.
+# Smart-Irrigation-System-Website
+This Website is built with simple Html,Css,Js
